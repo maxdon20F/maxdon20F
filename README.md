@@ -14,7 +14,7 @@ Saya adalah seorang **Technical Writer** yang berfokus pada pembangunan dokument
 
 ## 🚀 Proyek Pilihan (Featured Project)
 
-### 📌 [Lensa Cakrawala - API Documentation](https://github.com/username-anda/lensa-cakrawala-api-docs)
+### 📌 [Lensa Cakrawala - API Documentation](https://github.com/maxdon20F/lensa-cakrawala-api-docs)
 Dokumentasi API lengkap untuk sistem manajemen layanan drone (Full CRUD). Dokumentasi ini dirancang menggunakan standar industri dengan pemetaan parameter (Path & Request Body) yang presisi serta contoh respon JSON yang terstruktur.
 * *Teknologi yang digunakan:* Postman, Markdown, GitHub Repositories.
 
@@ -22,7 +22,7 @@ Dokumentasi API lengkap untuk sistem manajemen layanan drone (Full CRUD). Dokume
 
 ## 📫 Mari Terhubung!
 
-* **LinkedIn:** [linkedin.com/in/username-anda](https://linkedin.com/in/username-anda)
-* **Email:** email-anda@domain.com
+* **LinkedIn:** [linkedin.com/in/mohammad-fadlil-b5b2b27](https://linkedin.com/in/mohammad-fadlil-b5b2b2)
+* **Email:** mfadlil.07@gmail.com
 
 *"Mengubah kompleksitas sistem menjadi dokumentasi yang berbicara."*
